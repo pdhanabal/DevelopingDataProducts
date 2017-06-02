@@ -22,7 +22,7 @@ shinyUI(fluidPage(
     sidebarPanel(
         sliderInput("bins",
                    "Euro Value on 2017-May-", min = 1, max = 31,    value = 30),
-
+        textOutput("val"),
        checkboxInput("show_line","Draw/Hide Line", value=TRUE)
 
 
