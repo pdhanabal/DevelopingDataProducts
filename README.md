@@ -47,3 +47,4 @@ The following slides are prepared to show the changes of USD Vs EUR during May 2
 5. Plot
 
 The Presentation is available through this link:
+### http://rpubs.com/pdhanabal/USDvsEUR_PitchPresentation
